@@ -8,13 +8,13 @@ homepage: https://github.com/arthenica/ffmpeg-kit
 version: 0.2.1
 
 environment:
-  sdk: ">=3.7.0 <4.0.0"
-  flutter: ">=3.29.0"
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.1.8
+  plugin_platform_interface: ^2.0.2
 
 dev_dependencies:
-  carapacik_lints: ^1.11.1
+  carapacik_lints: ^1.8.1
